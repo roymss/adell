@@ -1,4 +1,5 @@
 <?php
+
 $koneksi = mysqli_connect("localhost", "root", "", "pw2024_tubes_233040140");
 
 function query($query)
